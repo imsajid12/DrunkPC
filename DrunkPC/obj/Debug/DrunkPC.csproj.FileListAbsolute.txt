@@ -1,0 +1,6 @@
+C:\Users\imsajid12\Desktop\Practise\DrunkPC\DrunkPC\bin\Debug\DrunkPC.exe
+C:\Users\imsajid12\Desktop\Practise\DrunkPC\DrunkPC\bin\Debug\DrunkPC.pdb
+C:\Users\imsajid12\Desktop\Practise\DrunkPC\DrunkPC\obj\Debug\DrunkPC.csprojResolveAssemblyReference.cache
+C:\Users\imsajid12\Desktop\Practise\DrunkPC\DrunkPC\obj\Debug\DrunkPC.csproj.CoreCompileInputs.cache
+C:\Users\imsajid12\Desktop\Practise\DrunkPC\DrunkPC\obj\Debug\DrunkPC.exe
+C:\Users\imsajid12\Desktop\Practise\DrunkPC\DrunkPC\obj\Debug\DrunkPC.pdb
